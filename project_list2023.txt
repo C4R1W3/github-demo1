@@ -8,3 +8,6 @@ B list (Parts conversion/ cost reduction)
 -ET98A(LLI) enclosure
 -301 key cap printing
 
+misc
+-Kweigh enclusers
+-Ethernet to 2 wire adaptor
