@@ -3,4 +3,8 @@ A list (New Product development)
 -Cellular Unit
 -LS Call directory
 
+B list (Parts conversion/ cost reduction)
+-Red Sentry Faceplate (ENC115)
+-ET98A(LLI) enclosure
+-301 key cap printing
 
