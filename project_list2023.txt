@@ -1,6 +1,5 @@
 A list (New Product development)
 -Connect Corner Cam
--Cellular Unit
 -LS Call directory
 
 B list (Parts conversion/ cost reduction)
@@ -11,3 +10,6 @@ B list (Parts conversion/ cost reduction)
 misc
 -Kweigh enclusers
 -Ethernet to 2 wire adaptor
+C list 
+-develop CANBus kweigh
+-update Pi breakout board
