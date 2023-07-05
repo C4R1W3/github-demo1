@@ -1,6 +1,5 @@
 A list (New Product development)
 -Connect Corner Cam
--Cellular Unit
 -LS Call directory
 
 B list (Parts conversion/ cost reduction)
@@ -8,3 +7,6 @@ B list (Parts conversion/ cost reduction)
 -ET98A(LLI) enclosure
 -301 key cap printing
 
+C list 
+-develop CANBus kweigh
+-update Pi breakout board
