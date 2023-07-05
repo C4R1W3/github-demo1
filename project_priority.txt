@@ -1,0 +1,5 @@
+Project priority list
+-LS Call directory
+-Connect Corner Cam
+-Red Sentry Faceplate (ENC115)
+-ET98A(LLI) enclosure
